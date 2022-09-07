@@ -7,7 +7,7 @@ These dashboards are very intuitive and provide valuable
 insights to the parties involved which will help them track
 progress and make informed decisions.
 
-#A. Management Dashboard:
+**A. Management Dashboard:**
 
 The Management dashboard will be utilized by the people
 from the mid and upper management to gain insights into
@@ -35,7 +35,7 @@ all customers based on orders placed by the customers.
 8) Customer Satisfaction: This shows customer Satisfaction
 according to their rating for each location that is desired.
 
-#B. Retailer Dashboard:
+**B. Retailer Dashboard:**
 
 The Retailer dashboard is intended to be utilized by the
 customers of the Olist i.e. the Retailers. The retailers will
@@ -66,7 +66,7 @@ who have ordered from them
 9) Order Status Tracking: This shows the number of orders
 at each status level for the selected seller.
 
-C. Marketing & Sales Dashboard
+**C. Marketing & Sales Dashboard:**
 
 The Marketing and Sales dashboard was developed with the
 intent that it could be helpful for the employees in the sales
